@@ -36,4 +36,4 @@ make game
 
 ## License:
 
-This repository is published under the MIT license. See the included [LICENSE](./LICENSE) file for more details. Feel free to fork, modify, and contribute to this project.
+This repository is published under the MIT license. See the included [LICENSE](./LICENSE.txt) file for more details. Feel free to fork, modify, and contribute to this project.
