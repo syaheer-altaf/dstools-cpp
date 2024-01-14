@@ -16,7 +16,7 @@ git clone https://github.com/syaheer-altaf/dstools-cpp.git
 Ensure that you have the necessary tools to build the library by installing the Makefile. This step is crucial for compiling the code seamlessly.
 
 ### iii) Build the Library:
-Navigate to the `bin` directory within the cloned repository and run the appropriate make command based on your operating system:
+Navigate to the [bin](./bin/) directory within the cloned repository and run the appropriate make command based on your operating system:
 ```bash
 make lib_windows
 # or
@@ -29,7 +29,7 @@ make lib_macos
 After successfully building the library, make sure to include the generated shared library in your working directory or set it in your environment to facilitate seamless integration.
 
 ### v) Compile Examples:
-Explore the library's capabilities by compiling the included Tic-Tac-Toe game in the examples folder. Run the following command in the terminal:
+Explore the library's capabilities by compiling the included Tic-Tac-Toe game in the [examples](./examples/) folder. Run the following command in the terminal:
 ```bash
 make game
 ```
